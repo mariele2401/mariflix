@@ -2,4 +2,5 @@ header{
     background-color: rgb(240, 229, 128);
     color: rgba(0, 0, 0, 0);
     font-size: 30px;
+    border-bottom: solid 2px color(srgb rgb(39, 115, 160) rgb(230, 222, 120) rgb(45, 111, 172))
 }
