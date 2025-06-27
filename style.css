@@ -2,4 +2,5 @@ header{
     background-color: rgb(240, 229, 128);
     font-size: 30px;
     border-bottom: solid 2px black;
+    padding: 20px;
 }
