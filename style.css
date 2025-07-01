@@ -20,3 +20,7 @@ header{
     justify-content: center;
     background-color: antiquewhite;
 }
+
+.chamada-texto{
+    margin-right: 5px;
+}
