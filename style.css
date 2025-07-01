@@ -24,3 +24,12 @@ header{
 .chamada-texto{
     margin-right: 10%;
 }
+
+img{
+    height: 200px;
+}
+
+.categoria-videos{
+    display: flex;
+    
+}
