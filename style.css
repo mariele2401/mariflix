@@ -1,13 +1,13 @@
-*{
+* {
     margin: 0px;
     padding: 0px;
 }
 
-body{
+body {
     background-color: antiquewhite;
 }
 
-header{
+header {
     background-color: rgb(245, 219, 147);
     font-size: 30px;
     border-bottom: solid 2px black;
@@ -15,28 +15,29 @@ header{
     text-align: center;
 }
 
-.chamada{
+.chamada {
     display: flex;
     justify-content: center;
     background-color: antiquewhite;
 }
 
-.chamada-texto{
+.chamada-texto {
     margin-right: 10%;
 }
 
-img{
+img {
     height: 200px;
 }
 
-.categoria-videos{
+.categoria-videos {
     display: flex;
     overflow-x: auto;
     gap: 20px;
 }
 
-.boasvindas{
+.boasvindas {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
     text-align: center;
+    padding: 40px;
 }
